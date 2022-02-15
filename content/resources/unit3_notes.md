@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource includes information on transformation of strain components,
   and compatibility of strains.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/16-21-techniques-for-structural-analysis-and-design-spring-2005/645c1c7bd79423f7bdc280b03e128bb4_unit3_notes.pdf
+file: /media/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/645c1c7bd79423f7bdc280b03e128bb4_unit3_notes.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: unit3_notes.pdf
 uid: 645c1c7b-d794-23f7-bdc2-80b03e128bb4

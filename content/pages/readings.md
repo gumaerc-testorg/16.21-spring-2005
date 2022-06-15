@@ -1,10 +1,16 @@
 ---
 content_type: page
+description: Reading section contains recommended and required readings list for the
+  course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: 6dc19aa3-9399-13cd-5ca8-dd74f2f31bc7
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Bibliography

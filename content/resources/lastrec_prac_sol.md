@@ -6,6 +6,7 @@ file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/d
 file_type: application/pdf
 learning_resource_types:
 - Exams
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Exams
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes solutions to the problem given in practice problem file.
-

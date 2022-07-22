@@ -6,6 +6,7 @@ file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/8
 file_type: application/x-gzip
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -19,4 +20,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes the special .ZIP files to solution of assignment 9.
-

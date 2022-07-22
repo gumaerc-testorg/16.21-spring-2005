@@ -5,6 +5,7 @@ file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/d
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 Special file containing tools for unit 10.
-

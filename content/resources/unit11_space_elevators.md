@@ -5,6 +5,7 @@ file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/4
 file_type: text/plain
 learning_resource_types:
 - Tools
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tools
 parent_type: CourseSection
@@ -18,4 +19,3 @@ video_metadata:
   youtube_id: null
 ---
 This resource includes a special file on tools for unit 11 space eleavtors.
-

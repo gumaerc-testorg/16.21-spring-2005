@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: This section consists of lecture topics covered in course along with
+  the numerical examples and notes.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 21456ece-c368-4989-e303-93bb6702f1d2
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 {{< tableopen >}}
@@ -48,7 +57,7 @@ Introduction
 {{< tdopen >}}
 
 
-Introduction ([PDF]({{< baseurl >}}/resources/unit1_notes))
+Introduction ({{% resource_link fac67584-6b0e-ea09-80ca-4a7bfc4754bf "PDF" %}})
 
 
 {{< tdclose >}}
@@ -84,9 +93,9 @@ Symmetry of the Stress Tensor
 {{< tdopen >}}
 
 
-Stress and Momentum Balance ([PDF]({{< baseurl >}}/resources/unit2_notes))
+Stress and Momentum Balance ({{% resource_link 466ce40e-ea21-d45e-1093-edccbc9f276f "PDF" %}})
 
-Mathematical Aside: Vectors, Indicial Notation and Summation Convention ([PDF]({{< baseurl >}}/resources/unit2_math_aside))
+Mathematical Aside: Vectors, Indicial Notation and Summation Convention ({{% resource_link 9c108fc0-7d74-8e15-b470-2250bd84f53a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -116,7 +125,7 @@ Compatibility Conditions
 {{< tdopen >}}
 
 
-Kinematics of Deformation ([PDF]({{< baseurl >}}/resources/unit3_notes))
+Kinematics of Deformation ({{% resource_link 645c1c7b-d794-23f7-bdc2-80b03e128bb4 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -144,7 +153,7 @@ The Second Law of Thermodynamics
 {{< tdopen >}}
 
 
-Thermodynamics Principles ([PDF]({{< baseurl >}}/resources/unit4_notes))
+Thermodynamics Principles ({{% resource_link 6a736592-9517-af77-bc45-ff70aec5108e "PDF" %}})
 
 
 {{< tdclose >}}
@@ -176,7 +185,7 @@ Thermoelastic Constitutive Equations
 {{< tdopen >}}
 
 
-Constitutive Equations ([PDF]({{< baseurl >}}/resources/unit5_notes))
+Constitutive Equations ({{% resource_link 05953c9b-99e0-7e64-7cb9-6c1fe17c721f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -206,7 +215,7 @@ Existence and Uniqueness of Solutions
 {{< tdopen >}}
 
 
-Boundary Value Problems of Linear Elasticity ([PDF]({{< baseurl >}}/resources/unit6_notes))
+Boundary Value Problems of Linear Elasticity ({{% resource_link 248d102c-71a8-fc89-f0e2-fb87c0c4bf2d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -248,13 +257,13 @@ Virtual Work
 {{< tdopen >}}
 
 
-Concepts of Work and Energy ([PDF]({{< baseurl >}}/resources/unit7_notes))
+Concepts of Work and Energy ({{% resource_link 266019e2-8442-d3a5-3ee0-3227eef5d72e "PDF" %}})
 
-Strain Energy and Potential Energy of a Beam ([PDF]({{< baseurl >}}/resources/unit7_beamenergy))
+Strain Energy and Potential Energy of a Beam ({{% resource_link 26b331e8-d425-8d9c-d36e-0686139784be "PDF" %}})
 
-Principles of Virtual Displacements ([PDF]({{< baseurl >}}/resources/unit8_notes))
+Principles of Virtual Displacements ({{% resource_link 8b5f22db-a0f1-f7e1-c586-b3984eda52bc "PDF" %}})
 
-Principles of Virtual Forces ([PDF]({{< baseurl >}}/resources/unit8_notes2))
+Principles of Virtual Forces ({{% resource_link b0b7cf70-0722-2223-c5ef-14b2d965798c "PDF" %}})
 
 
 {{< tdclose >}}
@@ -294,7 +303,7 @@ Minimization with Linear Equality Constraints
 {{< tdopen >}}
 
 
-Calculus of Variations ([PDF]({{< baseurl >}}/resources/unit9_notes))
+Calculus of Variations ({{% resource_link f634c4ae-c0ea-db36-ecab-25b4ceb5886a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -355,7 +364,7 @@ Betti's and Maxwell's Reciprocity Theorems
 {{< tdopen >}}
 
 
-Principle of Minimum Potential Energy and Castigliano's First Theorem ([PDF]({{< baseurl >}}/resources/unit10_notes))
+Principle of Minimum Potential Energy and Castigliano's First Theorem ({{% resource_link 8cfeacd7-7435-a8b5-c91a-1b8b8a37a784 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -405,9 +414,9 @@ One Dimensional Examples
 {{< tdopen >}}
 
 
-Approximate Methods ([PDF]({{< baseurl >}}/resources/unit11_notes1))
+Approximate Methods ({{% resource_link ef42fadb-4617-137c-55c3-ca8847db779a "PDF" %}})
 
-The Ritz Method Cont. ([PDF]({{< baseurl >}}/resources/unit11_notes2))
+The Ritz Method Cont. ({{% resource_link 48f4acf1-1b5b-fc3e-efda-ebb4b1bdfe9a "PDF" %}})
 
 
 {{< tdclose >}}
@@ -461,15 +470,15 @@ Lumping of Structure Properties and Loads
 {{< tdopen >}}
 
 
-The Finite Element Method ([PDF]({{< baseurl >}}/resources/unit12_notes1))
+The Finite Element Method ({{% resource_link 68e20ad8-745c-7c34-c036-f0fc6a94ef5b "PDF" %}})
 
-The Finite Element Method II ([PDF]({{< baseurl >}}/resources/unit12_notes2))
+The Finite Element Method II ({{% resource_link 18b02dda-5a23-ea4b-103f-80241c049980 "PDF" %}})
 
-The Finite Element Method III ([PDF]({{< baseurl >}}/resources/unit12_notes3))
+The Finite Element Method III ({{% resource_link 494cf330-ccaf-ba81-742a-cf3567e91377 "PDF" %}})
 
-The Finite Element Method IV: Imposition of Boundary Conditions ([PDF]({{< baseurl >}}/resources/unit12_notes4))
+The Finite Element Method IV: Imposition of Boundary Conditions ({{% resource_link 3821a5a4-3d2a-6a88-406c-cff31058a946 "PDF" %}})
 
-Finite Element Model of a Beam ([PDF]({{< baseurl >}}/resources/unit14_notes))
+Finite Element Model of a Beam ({{% resource_link 38fd89b6-d26c-9432-8e10-7b036114881b "PDF" %}})
 
 
 {{< tdclose >}}
@@ -501,7 +510,7 @@ Calculation of Stresses and the Assessment of Error
 {{< tdopen >}}
 
 
-The Finite Element Method V: For Three-Dimensional Elasticity Problems ([PDF]({{< baseurl >}}/resources/unit15_notes))
+The Finite Element Method V: For Three-Dimensional Elasticity Problems ({{% resource_link 52975fe9-2154-426a-3a54-5b3df3fe6b3d "PDF" %}})
 
 
 {{< tdclose >}}
@@ -525,7 +534,7 @@ Isoparametric Derivation of Bar Element Stiffness Matrix
 {{< tdopen >}}
 
 
-Formulation of Isoparametric Elements ([PDF]({{< baseurl >}}/resources/unit15_notes2))
+Formulation of Isoparametric Elements ({{% resource_link 5147f70f-147a-6994-8a3e-f5c516178b00 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -601,7 +610,7 @@ Numerical Integration
 {{< tdopen >}}
 
 
-Numerical Integration ([PDF]({{< baseurl >}}/resources/unit16_notes))
+Numerical Integration ({{% resource_link 1f737b64-4146-32db-be43-c774442edf07 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -661,7 +670,7 @@ Application to Pressure Tank
 {{< tdopen >}}
 
 
-Failure, Fracture, and Fatigue ([PDF - 2.4 MB]({{< baseurl >}}/resources/unit13_notes))
+Failure, Fracture, and Fatigue ({{% resource_link 5a1f077e-5d41-f3b7-1153-6818029e2600 "PDF - 2.4 MB" %}})
 
 
 {{< tdclose >}}

@@ -1,7 +1,16 @@
 ---
 content_type: page
+description: The syllabus section contains learning objectives, measurable outcomes,
+  prerequisites, lectures, recitations, active learning, class homework, and grading
+  directions required for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 832b2e42-5d35-b64b-8c34-2422d16c538c
+video_files:
+  video_thumbnail_file: null
+video_metadata:
+  youtube_id: null
 ---
 
 Course Meeting Times

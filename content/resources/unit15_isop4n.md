@@ -2,6 +2,7 @@
 content_type: resource
 description: Special file containing tools required for unit 15.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/fcb51e9221ab927aeb0014b75695cee6_Unit15_isop4n.nb
+file_size: 55866
 file_type: text/plain
 learning_resource_types:
 - Tools

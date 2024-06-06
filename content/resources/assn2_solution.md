@@ -2,6 +2,7 @@
 content_type: resource
 description: Special file containing solution for assignment 2.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/deef39d38a43a065e003c2be62bf67db_assn2_solution.nb
+file_size: 60396
 file_type: text/plain
 learning_resource_types:
 - Assignments

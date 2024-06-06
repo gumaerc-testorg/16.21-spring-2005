@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource includes a special file on tools for unit 11 space eleavtors.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/49d6aa43f948ae0a83be0d5aeea97dae_Unit11_space_elevators.nb
+file_size: 1163908
 file_type: text/plain
 learning_resource_types:
 - Tools

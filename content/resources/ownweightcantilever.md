@@ -2,6 +2,7 @@
 content_type: resource
 description: Special file containing solution for assignment 8.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/210aa1972fa27ac80ba5c42026eab6f9_ownweightcantilever.nb
+file_size: 7241
 file_type: text/plain
 learning_resource_types:
 - Assignments

@@ -3,6 +3,7 @@ content_type: resource
 description: This resource includes solutions to the problem given in practice problem
   file.
 file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/de4ece47f6384f7978a681b8bc42ced9_lastrec_prac_sol.pdf
+file_size: 527972
 file_type: application/pdf
 learning_resource_types:
 - Exams

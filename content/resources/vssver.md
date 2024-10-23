@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/c14c1c14b32c8ca458670c27f63d8743_vssver.scc
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/c14c1c14b32c8ca458670c27f63d8743_vssver.scc
 file_size: 384
 file_type: application/octet-stream
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on work, and strain energy.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/266019e28442d3a53ee03227eef5d72e_unit7_notes.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/266019e28442d3a53ee03227eef5d72e_unit7_notes.pdf
 file_size: 757665
 file_type: application/pdf
 learning_resource_types:

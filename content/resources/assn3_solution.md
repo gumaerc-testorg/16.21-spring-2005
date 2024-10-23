@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Special file containing solution for assignment 2.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/c2134bf94da4f1c5b11e01cb79188561_assn3_solution.nb
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/c2134bf94da4f1c5b11e01cb79188561_assn3_solution.nb
 file_size: 1137569
 file_type: text/plain
 learning_resource_types:

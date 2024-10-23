@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on formulation of isoparametric elements.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/5147f70f147a69948a3ef5c516178b00_unit15_notes2.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/5147f70f147a69948a3ef5c516178b00_unit15_notes2.pdf
 file_size: 494517
 file_type: application/pdf
 learning_resource_types:

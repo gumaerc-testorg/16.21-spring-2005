@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on example?of?Vector?mechanics?formulation,
   and corresponding?variational?formulation.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/fac675846b0eea0980ca4a7bfc4754bf_unit1_notes.pdf
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/fac675846b0eea0980ca4a7bfc4754bf_unit1_notes.pdf
 file_size: 103227
 file_type: application/pdf
 learning_resource_types:

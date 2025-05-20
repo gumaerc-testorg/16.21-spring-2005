@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Special file containing tools required for unit 12.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/7cce2218456ab812b5ebca3633728c39_Unit12_notes.nb
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/7cce2218456ab812b5ebca3633728c39_Unit12_notes.nb
 file_size: 8850
 file_type: text/plain
 learning_resource_types:

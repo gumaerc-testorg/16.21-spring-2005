@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a solidworks assignment not for grade.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/964eaf6e18712b25e7450c0829c453e1_assn7.pdf
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/964eaf6e18712b25e7450c0829c453e1_assn7.pdf
 file_size: 503452
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Special file containing tools for unit 11.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/bed9684e62a81174bf62e51cdcde001b_Unit11_ritzbeam.nb
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/bed9684e62a81174bf62e51cdcde001b_Unit11_ritzbeam.nb
 file_size: 1080077
 file_type: text/plain
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Special file containing midterm exams.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/92018428ddd9c9e449771ebc00842115_midterm.nb
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/92018428ddd9c9e449771ebc00842115_midterm.nb
 file_size: 1419352
 file_type: text/plain
 learning_resource_types:

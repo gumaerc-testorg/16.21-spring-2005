@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes the special .ZIP files to solution of assignment
   8.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/595de38c5c4ffccf5f2b283a181d6adc_assn8_solution.tgz
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/595de38c5c4ffccf5f2b283a181d6adc_assn8_solution.tgz
 file_size: 2385413
 file_type: application/x-gzip
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Special file containing tools required for unit 15.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/4cdf69a5f6a41848ced66a6e1ad48989_Unit15_2planestress.nb
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/4cdf69a5f6a41848ced66a6e1ad48989_Unit15_2planestress.nb
 file_size: 22409
 file_type: text/plain
 learning_resource_types:

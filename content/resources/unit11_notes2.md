@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on Ritz method.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/48f4acf11b5bfc3eefdaebb4b1bdfe9a_unit11_notes2.pdf
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/48f4acf11b5bfc3eefdaebb4b1bdfe9a_unit11_notes2.pdf
 file_size: 349461
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a final exam with four problems.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/5cfe773979da5d35e68f07c8cf3c1eda_final.pdf
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/5cfe773979da5d35e68f07c8cf3c1eda_final.pdf
 file_size: 62462
 file_type: application/pdf
 learning_resource_types:

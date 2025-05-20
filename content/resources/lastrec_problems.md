@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes a set of five problems to be solved by the students.
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9ca5b8b09565807af29efcbf3e42b66f_lastrec_problems.pdf
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9ca5b8b09565807af29efcbf3e42b66f_lastrec_problems.pdf
 file_size: 139264
 file_type: application/pdf
 learning_resource_types:

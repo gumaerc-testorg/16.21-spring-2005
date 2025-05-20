@@ -4,7 +4,7 @@ description: 'This resource includes Mathematica practice problems, verification
   that at equilibrium potential energy is a minimum
 
   in beam problem, and energy approach applied to a spring system problem.'
-file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9a5053c659daf7c4fedcad261f5a0a66_assn1.pdf
+file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9a5053c659daf7c4fedcad261f5a0a66_assn1.pdf
 file_size: 89286
 file_type: application/pdf
 learning_resource_types:

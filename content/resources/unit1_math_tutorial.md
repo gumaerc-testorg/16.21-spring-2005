@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Special file containing tools for unit 1.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/42ceffcb02d4f13ca8b2120785ce1479_Unit1_math_tutorial.nb
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/42ceffcb02d4f13ca8b2120785ce1479_Unit1_math_tutorial.nb
 file_size: 232154
 file_type: text/plain
 learning_resource_types:

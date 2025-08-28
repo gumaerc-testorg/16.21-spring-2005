@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes information on MER parachute decelerator system.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/5bd7d4f11556a3d58fcb0dc17bb24978_term_project.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/5bd7d4f11556a3d58fcb0dc17bb24978_term_project.pdf
 file_size: 409667
 file_type: application/pdf
 learning_resource_types:

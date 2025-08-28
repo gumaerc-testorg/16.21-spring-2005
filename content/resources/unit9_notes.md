@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on concept of functional, and extremum
   of a funtional.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/f634c4aec0eadb36ecab25b4ceb5886a_unit9_notes.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/f634c4aec0eadb36ecab25b4ceb5886a_unit9_notes.pdf
 file_size: 131466
 file_type: application/pdf
 learning_resource_types:

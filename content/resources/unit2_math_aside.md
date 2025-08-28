@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on indicial notation, summation convention,
   vectors and transformation of basis.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9c108fc07d748e15b4702250bd84f53a_unit2_math_aside.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/9c108fc07d748e15b4702250bd84f53a_unit2_math_aside.pdf
 file_size: 97015
 file_type: application/pdf
 learning_resource_types:

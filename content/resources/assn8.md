@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource includes six problem statements to be solved by the students.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/c07aebc1c53ea46acf64f8d759dce513_assn8.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/c07aebc1c53ea46acf64f8d759dce513_assn8.pdf
 file_size: 41019
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource includes information on operational sequence, design requirements,
   and deploy assembly.
-file: /courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/eeea2d2b4fef816687a738125f8960ac_term_proj_slides.pdf
+file: /ol-ocw-studio-app/courses/16-21-techniques-for-structural-analysis-and-design-spring-2005/eeea2d2b4fef816687a738125f8960ac_term_proj_slides.pdf
 file_size: 1662227
 file_type: application/pdf
 learning_resource_types:
